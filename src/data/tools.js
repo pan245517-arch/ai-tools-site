@@ -622,6 +622,16 @@ export const tools = [
     addedAt: '2025-01-15',
   },
   {
+    name: 'Remio',
+    description: '本地优先的 AI 记忆与个人知识库，可解析文件、网页、录音、邮件、消息、图片和笔记，并建立本地索引与向量',
+    url: 'https://remio.ai',
+    category: 'productivity',
+    tags: ['个人知识库', '本地索引', '文档解析'],
+    gradient: 'from-indigo-500 to-cyan-600',
+    pricing: 'freemium',
+    addedAt: '2026-06-25',
+  },
+  {
     name: 'Gamma',
     description: 'AI 驱动的演示文稿生成工具，输入一句话即可生成完整 PPT',
     url: 'https://gamma.app',
